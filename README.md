@@ -1,10 +1,17 @@
 # Image Processing Module - Course Materials (CM), Lab Work (TD), and Practical Work (TP)
 
-## Français
+[English](#english) | [Français](#français)
 
-Bienvenue dans le dépôt du module de **Traitement d'image** (ROB4 Polytech Sorbonne). Ici, vous trouverez les sujets de cours (CM), les travaux dirigés (TD), ainsi que les travaux pratiques (TP).
+## Authors
 
-### Sujets abordés :
+* Rami Aridi
+* Vasileios Filippos Skarleas
+
+---
+
+# Français
+
+## Sujets abordés :
 - Érosion et Dilatation
 - Ouvertures et Fermetures
 - Convolutions
@@ -21,11 +28,9 @@ Pour en savoir plus sur ce projet particulier, consultez le dossier TP2 ou visit
 
 ---
 
-## English
+# English
 
-Welcome to the repository for the **Image Processing** course. Here, you will find the course materials (CM), lab exercises (TD), and practical assignments (TP).
-
-### Topics Covered:
+## Topics Covered:
 - Erosion and Dilation
 - Openings and Closings
 - Convolutions
@@ -44,6 +49,6 @@ Find out more on this particular project at the folder TP2 or you can visit the 
 
 ### License Information
 
-**ROB4-S7-Image_processing** © 2024 by **Vasileios Filippos Skarleas** and **Rami Aridi** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). 
+ROB4-S7-Image_processing © 2024 by Vasileios Filippos Skarleas and Rami Aridi is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). 
 
-This work also includes content that is not the property of **Vasileios Filippos Skarleas** and **Rami Aridi** and is subject to copyright and other licenses from their respective owners.
+This work also includes content that is not the property of the authros and is subject to copyright and other licenses from their respective owners.
