@@ -1,4 +1,4 @@
-# LaneTrack CV
+# LaneWatch
 
 [English](#english) | [Français](#français)
 
@@ -49,6 +49,6 @@ Find out more on this particular project at the folder TP2 or you can visit the 
 
 ### License Information
 
-ROB4-S7-Image_processing © 2024 by Vasileios Filippos Skarleas and Rami Aridi is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). 
+LaneWatch © 2024 by Vasileios Filippos Skarleas and Rami Aridi is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). 
 
 This work also includes content that is not the property of the authros and is subject to copyright and other licenses from their respective owners.
