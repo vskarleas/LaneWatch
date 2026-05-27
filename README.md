@@ -1,4 +1,4 @@
-# Image Processing Module - Course Materials (CM), Lab Work (TD), and Practical Work (TP)
+# LaneTrack CV
 
 [English](#english) | [Français](#français)
 
